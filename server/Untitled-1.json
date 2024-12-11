@@ -1,0 +1,9 @@
+{
+  "name": "John Doe",
+  "email": "example@domain.com",
+  "password": "123456",
+  "img": null,
+  "cart": [],
+  "favourites": [],
+  "orders": []
+}

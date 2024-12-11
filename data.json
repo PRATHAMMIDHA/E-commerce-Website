@@ -1,0 +1,133 @@
+[
+    {
+      "title": "Elegant Blouse",
+      "name": "Blouse A1",
+      "desc": "A stylish and comfortable blouse perfect for any occasion.",
+      "img": "https://imgs.search.brave.com/Sddv27xO8wpla54EaqtsAdZz9dtTJIuxx_ebbZJgjYY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2hhYWRpZHVrYWFu/LmNvbS9lZGl0b3It/aW1nL2ltYWdlL2Ry/ZXNzZXMvYmxvdXNl/LWltYWdlL2Jsb3Vz/ZS1kZXNpZ242NS5q/cGc",
+      "price": {
+        "org": 29.99,
+        "mrp": 39.99,
+        "off": 25
+      },
+      "sizes": ["S", "M", "L", "XL"],
+      "category": ["Clothing", "Women", "Blouses"]
+    },
+    {
+      "title": "Luxury Pen Set",
+      "name": "Pen Set X2",
+      "desc": "High-quality pen set for writing with elegance.",
+      "img": "https://imgs.search.brave.com/Sddv27xO8wpla54EaqtsAdZz9dtTJIuxx_ebbZJgjYY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2hhYWRpZHVrYWFu/LmNvbS9lZGl0b3It/aW1nL2ltYWdlL2Ry/ZXNzZXMvYmxvdXNl/LWltYWdlL2Jsb3Vz/ZS1kZXNpZ242NS5q/cGc",
+      "price": {
+        "org": 15.00,
+        "mrp": 20.00,
+        "off": 25
+      },
+      "sizes": ["Standard"],
+      "category": ["Stationery", "Pens"]
+    },
+    {
+      "title": "Moisturizing Cream",
+      "name": "Cream Y5",
+      "desc": "A deeply moisturizing cream for healthy skin.",
+      "img": "https://imgs.search.brave.com/Sddv27xO8wpla54EaqtsAdZz9dtTJIuxx_ebbZJgjYY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2hhYWRpZHVrYWFu/LmNvbS9lZGl0b3It/aW1nL2ltYWdlL2Ry/ZXNzZXMvYmxvdXNl/LWltYWdlL2Jsb3Vz/ZS1kZXNpZ242NS5q/cGc",
+      "price": {
+        "org": 10.00,
+        "mrp": 15.00,
+        "off": 33
+      },
+      "sizes": ["50ml", "100ml"],
+      "category": ["Beauty", "Skincare", "Moisturizers"]
+    },
+    {
+      "title": "Classic Notebook",
+      "name": "Notebook C1",
+      "desc": "A classic notebook for all your writing needs.",
+      "img": "https://imgs.search.brave.com/Sddv27xO8wpla54EaqtsAdZz9dtTJIuxx_ebbZJgjYY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2hhYWRpZHVrYWFu/LmNvbS9lZGl0b3It/aW1nL2ltYWdlL2Ry/ZXNzZXMvYmxvdXNl/LWltYWdlL2Jsb3Vz/ZS1kZXNpZ242NS5q/cGc",
+      "price": {
+        "org": 5.99,
+        "mrp": 8.99,
+        "off": 33
+      },
+      "sizes": ["A5", "A4"],
+      "category": ["Stationery", "Notebooks"]
+    },
+    {
+      "title": "Trendy Sunglasses",
+      "name": "Sunglasses T1",
+      "desc": "Stylish sunglasses to protect your eyes from the sun.",
+      "img": "https://imgs.search.brave.com/Sddv27xO8wpla54EaqtsAdZz9dtTJIuxx_ebbZJgjYY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2hhYWRpZHVrYWFu/LmNvbS9lZGl0b3It/aW1nL2ltYWdlL2Ry/ZXNzZXMvYmxvdXNl/LWltYWdlL2Jsb3Vz/ZS1kZXNpZ242NS5q/cGc",
+      "price": {
+        "org": 25.00,
+        "mrp": 30.00,
+        "off": 17
+      },
+      "sizes": ["Standard"],
+      "category": ["Accessories", "Sunglasses"]
+    },
+    {
+      "title": "Running Shoes",
+      "name": "Shoes R2",
+      "desc": "Comfortable running shoes for your daily jog.",
+      "img": "https://imgs.search.brave.com/Sddv27xO8wpla54EaqtsAdZz9dtTJIuxx_ebbZJgjYY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2hhYWRpZHVrYWFu/LmNvbS9lZGl0b3It/aW1nL2ltYWdlL2Ry/ZXNzZXMvYmxvdXNl/LWltYWdlL2Jsb3Vz/ZS1kZXNpZ242NS5q/cGc",
+      "price": {
+        "org": 50.00,
+        "mrp": 65.00,
+        "off": 23
+      },
+      "sizes": ["8", "9", "10", "11"],
+      "category": ["Footwear", "Sports"]
+    },
+    {
+      "title": "Wireless Earbuds",
+      "name": "Earbuds W1",
+      "desc": "High-quality wireless earbuds for music lovers.",
+      "img": "https://imgs.search.brave.com/Sddv27xO8wpla54EaqtsAdZz9dtTJIuxx_ebbZJgjYY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2hhYWRpZHVrYWFu/LmNvbS9lZGl0b3It/aW1nL2ltYWdlL2Ry/ZXNzZXMvYmxvdXNl/LWltYWdlL2Jsb3Vz/ZS1kZXNpZ242NS5q/cGc",
+      "price": {
+        "org": 59.99,
+        "mrp": 79.99,
+        "off": 25
+      },
+      "sizes": ["Standard"],
+      "category": ["Electronics", "Audio"]
+    },
+    {
+      "title": "Smartwatch",
+      "name": "Watch S3",
+      "desc": "Feature-packed smartwatch for your fitness needs.",
+      "img": "https://example.com/images/watch-s3.jpg",
+      "price": {
+        "org": 199.99,
+        "mrp": 249.99,
+        "off": 20
+      },
+      "sizes": ["Standard"],
+      "category": ["Electronics", "Wearables"]
+    },
+    {
+      "title": "Yoga Mat",
+      "name": "Mat Y1",
+      "desc": "Non-slip yoga mat for your workout sessions.",
+      "img": "https://example.com/images/mat-y1.jpg",
+      "price": {
+        "org": 25.00,
+        "mrp": 35.00,
+        "off": 29
+      },
+      "sizes": ["Standard"],
+      "category": ["Fitness", "Yoga"]
+    },
+    {
+      "title": "Stylish Handbag",
+      "name": "Handbag H4",
+      "desc": "A fashionable handbag to carry your essentials.",
+      "img": "https://example.com/images/handbag-h4.jpg",
+      "price": {
+        "org": 70.00,
+        "mrp": 90.00,
+        "off": 22
+      },
+      "sizes": ["Standard"],
+      "category": ["Accessories", "Bags"]
+    }
+  ]
+  
